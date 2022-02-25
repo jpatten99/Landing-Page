@@ -1,0 +1,48 @@
+.header{
+    display:flex;
+    justify-content: space-around;
+}
+
+.header-list{
+    display:flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    gap:16px;
+    align-items:center;
+}
+
+.top-fourth-mid{
+    display:flex;
+    justify-content: space-around;
+}
+
+.top-fourth-mid-left{
+    display:flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 500px;
+}
+
+.top-fourth{
+    background-color: #1F2937;
+    color: #F9FaF8;
+}
+
+.second{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    flex-direction: column;
+}
+
+.second-bottom{
+    display:flex;
+    gap:24px;
+}
+
+.second-text{
+    display:flex;
+    gap:24px;
+    
+}
