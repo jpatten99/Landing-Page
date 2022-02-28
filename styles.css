@@ -80,3 +80,40 @@
     margin-top: -32px;
     font-weight: bolder;
 }
+
+.fourth{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 25em;
+   
+}
+
+.fourth-content{
+    display:flex;
+    gap:64px;
+    background-color: #3882F6;
+    padding: 24px 100px;
+    border-radius: 10px;
+    color: white;
+}
+
+.fourth-left{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.fourth-right{
+    display: flex;
+    align-items: center;
+}
+
+.defaultbutton{
+  background-color: inherit;
+  padding:6px 24px;
+  color: white;
+  border: 2px solid white;
+  border-radius: 4px;
+  font-weight: bold;
+}
