@@ -117,3 +117,12 @@
   border-radius: 4px;
   font-weight: bold;
 }
+
+.footer{
+    display:flex;
+    background-color: #1F2937;
+    color: #E5E7EB;
+    min-height: 5em;
+    justify-content: center;
+    align-items: center;
+}
